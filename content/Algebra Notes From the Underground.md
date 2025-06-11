@@ -9,19 +9,19 @@ author: Paolo Aluffi
 - [ ] Chapter 3
 	- [ ] Exercises
 		- [x] [[Exercise 3.1]]
-		- [i] 3.2
+		- [x] [[Exercise 3.2]]
 		- [i] 3.3
 		- [i] 3.4
-		- [!] 3.5
-		- [!] 3.6
-		- [!] 3.7
-		- [!] 3.8
+		- [x] [[Exercise 3.5]]
+		- [x] [[Exercise 3.6]]
+		- [x] [[Exercise 3.7]]
+		- [x] [[Exercise 3.8]]
 		- [x] [[Exercise 3.9]]
 		- [x] [[Exercise 3.10]]
 		- [x] [[Exercise 3.11]]
-		- [*] 3.12
-		- [*] 3.13
-		- [*] 3.14
+		- [x] [[Exercise 3.12]]
+		- [x] [[Exercise 3.13]]
+		- [x] [[Exercise 3.14]]
 		- [?] 3.15 
 		- [?] 3.16
 		- [!] 3.17
