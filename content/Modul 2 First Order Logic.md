@@ -31,7 +31,7 @@ example (x₀ : a) (h : ∀ x, P x) : P x₀ := by
 
 ## Kuantor Eksistensial
 
-Kuantor existensial dapat ditulis dengan `exists x : a, p x` atau u x : a, p x` (dapat ditulis menggunakan `\exists`). Untuk membuktikan kuantor eksistensial, caranya mirip dengan operator dan, yaitu kita cukup memberikan term `x : a` dan juga bukti bahwa `p x` benar. Jika kita punya `x : a` dan `h : p x`, maka `⟨x, h⟩` adalah bukti untuk pernyataan `∃ x : a, p x`. Jika bukti dari `p x` cukup sulit, maka kita bisa hanya memilih `x`-nya saja terlebih dahulu menggunakan taktik `exists x`.
+Kuantor existensial dapat ditulis dengan `exists x : a, p x` atau `x : a, p x` (dapat ditulis menggunakan `\exists`). Untuk membuktikan kuantor eksistensial, caranya mirip dengan operator dan, yaitu kita cukup memberikan term `x : a` dan juga bukti bahwa `p x` benar. Jika kita punya `x : a` dan `h : p x`, maka `⟨x, h⟩` adalah bukti untuk pernyataan `∃ x : a, p x`. Jika bukti dari `p x` cukup sulit, maka kita bisa hanya memilih `x`-nya saja terlebih dahulu menggunakan taktik `exists x`.
 
 Sedangkan, untuk menggunakan pernyataan eksistensial dapat digunakan taktik `obtain` seperti berikut. Jika kita memiliki `h : ∃ x : a, p x`, maka `obtain ⟨x, h1⟩ := h` akan mengubah hipotesis `h` menjadi `x : a` dan `h1 : p x`.
 
