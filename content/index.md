@@ -1,8 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Math Notes
 ---
+# Maps of Content
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-
-This is a link to a [[note]]
+[[Algebra Notes From the Underground]]
+[[Praktikum Dasmat]]
